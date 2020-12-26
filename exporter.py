@@ -3,9 +3,9 @@ from telethon import functions, types
 from telethon import errors
 import csv
 
-api_id = 0000
-api_hash = "absfdefefe"
-name = "session_name"
+api_id = 2298909
+api_hash = b48e35c06915fbfe790a4b50facf8e02
+name = "prince trust
 
 with TelegramClient(name, api_id, api_hash) as client:
     try:
